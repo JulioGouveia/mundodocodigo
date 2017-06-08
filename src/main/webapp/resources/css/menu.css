@@ -1,0 +1,103 @@
+@CHARSET "ISO-8859-1";
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: white;
+    background-color: orange;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: white;
+    background-color: orange;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: white;
+    background-color: #FFA500;
+}
+.navbar-default .navbar-brand {
+    color: white;
+    background-color: #FFA500;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: #333;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: orange;
+}
+a:focus, a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+a {
+    color: orange;
+    text-decoration: none;
+
+}
+.logotype{
+	background-color: #F07D22;
+	color: black;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #F07D22;
+    color: white;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.carrinho{
+	position: absolute;
+	right: 20px;
+}
+
+.meuCarrinho{
+	height: 580px;
+}
+
+#rodape {
+	background-color: #333;
+	color: white;
+	margin-top: 20px;	
+}
+
+.navbar-nav>li>a:hover {
+    color: #F07D22;
+    background-color: transparent;
+}
+brand:hover {
+    /* color: #5e5e5e; */
+    background-color: transparent;
+}
+
+.navbar-default {
+     background-color: #333;
+    border-color: white;
+}
+
+nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: orange;
+}
